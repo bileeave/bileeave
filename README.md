@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - resume
 - portfolio
+  - dark mode toggle
+  - responsive
+  - [How environmentally friendly is your website?](https://charitydigital.org.uk/topics/topics/how-environmentally-friendly-is-your-website-8881#:~:text=The%20Create%20Eco%2Dchecker&text=Using%20your%20home%2Dpage%20URL,';%20and%20your%20pagespeed%20score.)
+  - [Tab bars | Apple Developer Documentation](https://developer.apple.com/design/human-interface-guidelines/tab-bars)
 -->
